@@ -10,7 +10,7 @@ export const Bio = {
       "I'm a creative professional specializing in user-friendly web development (HTML, CSS, JavaScript, CMS) and visually compelling design (logos, branding). I bring your digital vision to life with technical expertise and creativity. Let's elevate your online and visual presence together.",
     github: "https://github.com/Nandu-ramineni",
     resume:
-      "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/Nandu%20Ramineni.pdf?alt=media&token=2a92cc34-2172-44be-968e-253320cff241&_gl=1*1m08o5z*_ga*MTI4Mjk3OTEwNy4xNjk3MDIwOTMz*_ga_CW55HF8NVT*MTY5NzAzNTQzNi4zLjEuMTY5NzAzNTQ4Ny45LjAuMA..",
+      "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/My_Resume.pdf?alt=media&token=f4be00ea-c82d-43f0-838e-5a0c3058dea4",
     linkedin: "https://www.linkedin.com/in/ramineni-nandu-varma-85a226251",
     twitter: "https://twitter.com/Nanduvarma13",
     insta: "https://instagram.com/nanduvarma__?igshid=OGQ5ZDc2ODk2ZA==",
