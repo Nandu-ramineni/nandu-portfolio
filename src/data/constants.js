@@ -10,7 +10,7 @@ export const Bio = {
       "I'm a creative professional specializing in user-friendly web development (HTML, CSS, JavaScript, CMS) and visually compelling design (logos, branding). I bring your digital vision to life with technical expertise and creativity. Let's elevate your online and visual presence together.",
     github: "https://github.com/Nandu-ramineni",
     resume:
-      "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/Nandu%20Ramineni.pdf?alt=media&token=2a92cc34-2172-44be-968e-253320cff241&_gl=1*1m08o5z*_ga*MTI4Mjk3OTEwNy4xNjk3MDIwOTMz*_ga_CW55HF8NVT*MTY5NzAzNTQzNi4zLjEuMTY5NzAzNTQ4Ny45LjAuMA..",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/My_Resume.pdf?alt=media&token=92328654-3c79-4465-badc-e5090884e97a",
     linkedin: "https://www.linkedin.com/in/ramineni-nandu-varma-85a226251",
     twitter: "https://twitter.com/Nanduvarma13",
     insta: "https://instagram.com/nanduvarma__?igshid=OGQ5ZDc2ODk2ZA==",
@@ -147,11 +147,6 @@ export const skills = [
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
       {
-        name: "Docker",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-      },
-      {
         name: "Netlify",
         image:
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
@@ -169,7 +164,7 @@ export const skills = [
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://s3-alpha.figma.com/hub/file/1166690750/85f69649-5387-44c2-ba45-81ae13812e36-cover.png",
       },
     ],
   },
@@ -193,7 +188,7 @@ export const experiences = [
       "TypeScript",
       "React Js",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/internship.png?alt=media&token=f8c8be94-41d3-4629-9aa9-9b324f81bbab&_gl=1*1quvgxy*_ga*MTI4Mjk3OTEwNy4xNjk3MDIwOTMz*_ga_CW55HF8NVT*MTY5NzAyMDkzMy4xLjEuMTY5NzAyMTU5Mi40OC4wLjA",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/internship.png?alt=media&token=4a27aa95-94a2-4892-a0fe-3607b9369d81",
   },
   {
     id: 0,
@@ -230,7 +225,7 @@ export const experiences = [
       "Scalability",
       "AWS Security",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/August%20training%20data%202022-159_page-0001.jpg?alt=media&token=95b4e1f4-83f9-4ced-8a5d-441a75261c73",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/August%20training%20data%202022-159_page-0001.jpg?alt=media&token=4819dcf4-08b4-4ab9-a57e-da1a724d7529",
   },
   {
     id: 2,
@@ -239,7 +234,7 @@ export const experiences = [
     company: "Microsoft Learn Student Ambassador",
     date: "Nov 2022 ",
     desc: "I achieved certification in Deep Learning Using Python through the Microsoft Learn platform as a Microsoft Learn Student Ambassador. This comprehensive program delved into the intricacies of deep learning and its practical implementation using Python. It equipped me with an in-depth understanding of neural networks, machine learning libraries, and the ability to apply this knowledge to real-world scenarios. This certification not only expanded my technical expertise but also solidified my commitment to fostering technological awareness and education as a Student Ambassador for Microsoft Learn.",
-    doc: "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/microsoft_page-0001.jpg?alt=media&token=29c75e29-48ad-456c-b6e0-f49c88ed346b&_gl=1*1mtf170*_ga*MTI4Mjk3OTEwNy4xNjk3MDIwOTMz*_ga_CW55HF8NVT*MTY5NzAyMDkzMy4xLjEuMTY5NzAyMjg1OC4zOS4wLjA.",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/microsoft_page-0001.jpg?alt=media&token=3bcbfea5-c385-4d1f-9901-c99ef90563de",
     
   },
   {
@@ -298,7 +293,7 @@ export const projects = [
     description:
       "I successfully developed an Employee Management System using J2EE, Java, HTML, CSS, JSP, and JavaScript. The system offers a user-friendly interface with features such as employee data management, attendance tracking, leave management, and performance evaluation. It demonstrates my proficiency in both backend (Java, J2EE) and frontend (HTML, CSS, JSP, JavaScript) technologies, providing organizations with a comprehensive solution for efficient workforce management.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/Ems.png?alt=media&token=3d8522b5-725c-4cc6-83e4-f29928c480af",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/ems.png?alt=media&token=d803fd5f-18de-4ccd-82a1-467d60eb302c",
     tags: [
       "Java",
       "J2EE",
@@ -320,7 +315,7 @@ export const projects = [
     description:
       "I have developed a comprehensive multipage restaurant web application using a combination of HTML, CSS, JavaScript, and SCSS (Sass). This web application is designed to offer an engaging and user-friendly experience for both restaurant owners and their customers. ",
     image:
-      "https://shorturl.at/cglQ6",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/restaurant.jpeg?alt=media&token=01b689d4-1c4b-42a0-8eac-166debd796f7",
     tags: ["React Js", "HTML", "CSS", "JavaScript", "SCSS"],
     category: "web app",
     github: "https://github.com/Nandu-ramineni/DineInn.git",
@@ -333,7 +328,7 @@ export const projects = [
     description:
       "I developed a weather app that offers users a user-friendly interface to access location-based weather information. The app provides current conditions, hourly and daily forecasts, and extended forecasts for up to a week. It uses icons and visuals to represent weather data and supports multiple locations for user convenience.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/weather.png?alt=media&token=8c4c2adc-5404-457c-80cb-555b27f0f6a6",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/weather.png?alt=media&token=add710b1-fbf6-4ecc-a948-2a8c87e5de67",
     tags: [
       "React Js",
       "Html",
@@ -352,7 +347,7 @@ export const projects = [
     description:
     "Introducing a dynamic Marketing Flyer Poster designed with expertise in Graphic Design. This visually captivating material seamlessly integrates aesthetics and functionality, featuring striking visuals, modern typography, and brand consistency. Crafted to enhance your marketing impact, this poster reflects my proficiency in Graphic Design, ensuring your message stands out effectively.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/marketing_flyer1.jpg?alt=media&token=cdc8f037-9612-4671-97a3-9c1d04b66257",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/marketing_flyer2.psd.jpg?alt=media&token=12f1a329-fe74-4cd8-a106-c0e46a036338",
     tags: ["Adobe Photoshop", "Adobe Illustrator", "Graphic Design", "UI/UX"],
     category: "android app",
     github: "https://github.com/Nandu-ramineni/Photoshop-Psd-s.git",
@@ -365,7 +360,7 @@ export const projects = [
     description:
       "I take pride in crafting an eye-catching Swiggy poster through graphic design expertise. This visually appealing poster seamlessly captures the essence of Swiggy's service, blending vibrant colors, enticing food imagery, and modern design elements. The poster effectively communicates the convenience and variety offered by Swiggy, serving as a compelling visual invitation for users to explore the diverse culinary delights available at their fingertips.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/Swiggy.jpg?alt=media&token=eca2cab1-0ed0-4d73-acd7-3dfc10a07f0d",
+      "https://i.pinimg.com/originals/5b/da/50/5bda50c439a2e0b1dd07456a9ccb8d48.jpg",
     tags: ["PhotoShop", "Adobe Illustrator", "Graphic Design"],
     category: "android app",
     github: "https://github.com/Nandu-ramineni/Photoshop-Psd-s.git",
@@ -378,24 +373,11 @@ export const projects = [
     description:
       "🚀 Mocktest Duniya: Elevate Your Exam Prep Journey! 📚. Explore a revolutionary React-based platform designed to transform your competitive exam preparation. Mocktest Duniya offers diverse test components, real-time scoring, and expertly curated mock tests for exams like JEE, GATE, TSPSC, and more. With a user-friendly interface, innovative learning approaches, and a supportive community, Mocktest Duniya is your go-to ally for mastering exams. Join us and experience the advantage of targeted practice, insightful strategies, and a transformative learning journey. 🌟💻",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/Quizapp.jpeg?alt=media&token=54bd320e-515f-4a7b-80c5-351468ccdb7e",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/Quizapp.jpeg?alt=media&token=7e57f923-e3a1-4613-a324-d451fd051cec",
     tags: ["React Js", "JavaScript (ES6+)", "Styled Components", "React Icons","React Router","SASS"],
     category: "web app",
     github: "https://github.com/Nandu-ramineni/react-mocktest.git",
     webapp: "https://mocktestduniya.netlify.app/",
-  },
-  {
-    id: 7,
-    title: "Travel Flyer",
-    date: "2022",
-    description:
-    "Introducing a captivating Travel Flyer that takes you on a visual journey! Immerse yourself in stunning graphics, vibrant colors, and enticing destinations. This professionally designed flyer is your ticket to wanderlust, inspiring travel enthusiasts to embark on their next adventure. From breathtaking landscapes to enticing travel offers, this flyer is a snapshot of the extraordinary experiences awaiting exploration. Get ready to turn dreams into travel plans with this enticing and visually appealing Travel Flyer!",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/Travel.jpg?alt=media&token=08c0b49e-e4c0-4747-8d82-4f28b71bdfd8",
-    tags: ["UI/UX", "Photoshop", "Illustrator", "Canva"],
-    category: "android app",
-    github: "https://github.com/Nandu-ramineni/Photoshop-Psd-s.git",
-    webapp: "https://firebasestorage.googleapis.com/v0/b/nandu-1121a.appspot.com/o/Travel.jpg?alt=media&token=08c0b49e-e4c0-4747-8d82-4f28b71bdfd8",
   },
 ];
 
