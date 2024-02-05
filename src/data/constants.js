@@ -161,11 +161,7 @@ export const skills = [
         image:
           "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
       },
-      {
-        name: "Figma",
-        image:
-          "https://s3-alpha.figma.com/hub/file/1166690750/85f69649-5387-44c2-ba45-81ae13812e36-cover.png",
-      },
+      
     ],
   },
 ];
@@ -252,6 +248,7 @@ export const experiences = [
       "Version Control",
     ],
   },
+  
   
 ];
 
@@ -378,6 +375,19 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Nandu-ramineni/react-mocktest.git",
     webapp: "https://mocktestduniya.netlify.app/",
+  },
+  {
+    id: 5,
+    title: "Job Portal App",
+    date: "Jan 2024",
+    description:
+      "🚀 JobVista: Elevate Your Dream job Journey! 📚. Explore a revolutionary React-based platform designed to transform your Job-search. Job vista  offers diverse job oppurtunities. 🌟💻",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/job-portal-c3290.appspot.com/o/jobvista.jpg?alt=media&token=8dff462e-6682-46c4-8808-465c24561d38",
+    tags: ["React Js", "JavaScript (ES6+)", "Firebase", "Tailwind CSS","API"],
+    category: "web app",
+    github: "https://github.com/Nandu-ramineni/job-portal-website.git",
+    webapp: "https://jobvesta.netlify.app/",
   },
 ];
 
