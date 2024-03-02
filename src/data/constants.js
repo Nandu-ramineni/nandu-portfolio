@@ -84,10 +84,6 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
       {
-        name: "Postgresql",
-        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },
-      {
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
@@ -389,6 +385,17 @@ export const projects = [
     github: "https://github.com/Nandu-ramineni/job-portal-website.git",
     webapp: "https://jobvesta.netlify.app/",
   },
+  {
+    id:6,
+    title:"File Sharing App",
+    date:"Feb 2024",
+    description:"🚀 File Sharing App: Elevate Your File Sharing Journey! 📚. Explore a revolutionary MERN-based platform designed to transform your File Sharing. File Sharing App offers diverse file sharing oppurtunities. 🌟💻",
+    image:"https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/File-sharing.jpeg?alt=media&token=f245bcd4-e270-42e1-bda0-105cc3dfce0f",
+    tags:["React Js","Node Js","Express Js","MongoDB","Mongoose","Multer","Tailwind CSS","API"],
+    category:"web app",
+    github:"https://github.com/Nandu-ramineni/file_sharing.git",
+    webapp:"https://github.com/Nandu-ramineni/file_sharing.git",
+  }
 ];
 
 export const TimeLineData = [
