@@ -157,6 +157,11 @@ export const skills = [
         image:
           "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
       },
+      {
+        name: "AWS",
+        image:
+          "https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg",
+      }
       
     ],
   },
