@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-      "I'm a creative professional specializing in user-friendly web development (HTML, CSS, JavaScript, CMS) and visually compelling design (logos, branding). I bring your digital vision to life with technical expertise and creativity. Let's elevate your online and visual presence together.",
+  "Versatile Full Stack (MERN) Developer and Graphic Designer with a passion for creating seamless digital experiences. Proficient in building robust web applications and crafting visually compelling designs that resonate with users. Dedicated to delivering innovative solutions that merge functionality with aesthetics.",
     github: "https://github.com/Nandu-ramineni",
     resume:
     "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/My_Resume.pdf?alt=media&token=92328654-3c79-4465-badc-e5090884e97a",
