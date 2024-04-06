@@ -400,6 +400,17 @@ export const projects = [
     category:"web app",
     github:"https://github.com/Nandu-ramineni/file_sharing.git",
     webapp:"https://github.com/Nandu-ramineni/file_sharing.git",
+  },
+  {
+    id: 7,
+    title: "Ecommerce [Flipkart-Clone]",
+    date: "Mar 2024",
+    description: "🚀This project is a replica of Flipkart, developed using the MERN stack. It offers a user-friendly e-commerce platform with features like product browsing, user authentication, and order processing. The frontend, built with React.js and Redux, communicates with the Node.js backend via RESTful APIs. Razorpay integration ensures secure payment processing, enhancing the overall shopping experience. 🛒💳",
+    image: "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/flipkart.png?alt=media&token=bee4ad70-ba65-4308-aa65-6d7a499a46ef",
+    tags: ["React Js", "Redux","MUI","Tailwind CSS", "Node Js", "Express Js", "MongoDB", "Razorpay", "API"],
+    category: "web app",
+    github: "https://github.com/Nandu-ramineni/flipkart-clone.git",
+    webapp: "https://flipkartecom.netlify.app/",
   }
 ];
 
