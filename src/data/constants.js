@@ -313,7 +313,7 @@ export const projects = [
     description:
       "I have developed a comprehensive multipage restaurant web application using a combination of HTML, CSS, JavaScript, and SCSS (Sass). This web application is designed to offer an engaging and user-friendly experience for both restaurant owners and their customers. ",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/restaurant.jpeg?alt=media&token=01b689d4-1c4b-42a0-8eac-166debd796f7",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/p1.jpg?alt=media&token=22776214-fe35-4f66-bca4-fb4c62bb055c",
     tags: ["React Js", "HTML", "CSS", "JavaScript", "SCSS"],
     category: "web app",
     github: "https://github.com/Nandu-ramineni/DineInn.git",
