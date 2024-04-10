@@ -399,7 +399,7 @@ export const projects = [
     tags:["React Js","Node Js","Express Js","MongoDB","Mongoose","Multer","Tailwind CSS","API"],
     category:"web app",
     github:"https://github.com/Nandu-ramineni/file_sharing.git",
-    webapp:"https://github.com/Nandu-ramineni/file_sharing.git",
+    webapp:"https://filesend.netlify.app/",
   },
   {
     id: 7,
