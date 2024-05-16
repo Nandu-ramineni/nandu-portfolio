@@ -410,7 +410,7 @@ export const projects = [
     tags: ["React Js", "Redux","MUI","Tailwind CSS", "Node Js", "Express Js", "MongoDB", "Razorpay", "API"],
     category: "web app",
     github: "https://github.com/Nandu-ramineni/flipkart-clone.git",
-    webapp: "https://flipkartecom.netlify.app/",
+    webapp: "https://flipkcart.netlify.app",
   }
 ];
 
