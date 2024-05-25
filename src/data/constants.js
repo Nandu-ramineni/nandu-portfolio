@@ -411,6 +411,17 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Nandu-ramineni/flipkart-clone.git",
     webapp: "https://flipkcart.netlify.app",
+  },
+  {
+    id: 8,
+    title: "Chat Ai",
+    date: "May 2024",
+    description: "I developed a Chat AI application using a React frontend with Tailwind CSS for styling and Axios for HTTP requests, and an Express.js backend. The backend integrates Googles Generative AI using the @google/generative-ai package to generate text responses based on user prompts. The application includes features such as a fixed-position input form, code detection in responses, and a loading indicator. I managed environment configuration with dotenv`and handled CORS using the cors package.",
+    image: "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/chat.png?alt=media&token=b64b1a87-f679-40ea-bb2f-5d0936ac45e4",
+    tags: ["React Js", "Gemini","API","Tailwind CSS", "Node Js", "Express Js", "MongoDB", "Cors",],
+    category: "web app",
+    github: "https://github.com/Nandu-ramineni/Chat_AI.git",
+    webapp: "https://aigemini.netlify.app/",
   }
 ];
 
