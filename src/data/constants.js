@@ -169,6 +169,24 @@ export const skills = [
 
 export const experiences = [
   {
+    id: 4,
+    img: "https://media.licdn.com/dms/image/D4D0BAQGs2qkNI07Hdw/company-logo_200_200/0/1710762761218/health_pulse_connect_logo?e=2147483647&v=beta&t=osDDdWf9xuyytSoBTKKlJ-zknitbaUKR87hnUjwt6VM",
+    role: "Front-end Web Devloper",
+    company: "Health Pulse Connect",
+    date: "May 2024 - Present",
+    desc: "Working on Health Application which helps to connect the patients with the doctors and book appointments, order medicines, and get the reports online. Developed the Frontend using React Js, Redux, MUI, and integrated with the backend APIs.",
+    skills: [
+      "React Js",
+      "MUI",
+      "Redux",
+      "Thunk",
+      "AWS",
+      "EC2",
+      "JavaScript",
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/Internship-Certificates.pdf?alt=media&token=c248f1c5-b2dc-4a13-8d95-0d5502584029",
+  },
+  {
     id: 0,
     img: "https://media.licdn.com/dms/image/D4D0BAQG5Aq2MEN1OGg/company-logo_100_100/0/1687209131834?e=2147483647&v=beta&t=rr-UeoJUVcZK4AmcDEqAKrgBBUv8PLL3oJNJT9dVzxI",
     role: "Web Development Engineering Intern",
@@ -284,6 +302,29 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 10,
+    title: "Food Delivery Application",
+    date: "June 2024 - June 2024",
+    description:
+      "🚀 Introducing My Food Order & Delivery Platform! 🍕 This innovative platform, built with React, Redux, Node.js, and MongoDB, is designed to offer seamless user experiences from browsing to order completion. It boasts secure JWT authentication, ensuring user data is protected, and integrates Razorpay for smooth and reliable transactions.🎯 User Experience: Customers can effortlessly browse menus, customize orders, and track deliveries in real-time.👨‍🍳 Vendor Management: Vendors have robust tools to manage their menus, track orders, and engage with customers efficiently.📊 Admin Control: Admins have full oversight with detailed analytics, user management, and vendor coordination, all through an intuitive dashboard.Explore it on GitHub and experience the live demo for a hands-on feel of this comprehensive solution.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/user-pannel.png?alt=media&token=efdaa07d-c460-4655-9b7e-e34c86e3043c",
+    tags: [
+      "React Js",
+      "MongoDB",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "JWT",
+      "Razorpay",
+      "Redux",
+      "MERN Stack",
+    ],
+    category: "web app",
+    github: "https://github.com/Nandu-ramineni/FoodDelivery.git",
+    webapp: "https://yummz.netlify.app",
+  },
   {
     id: 9,
     title: "Employee Management System",
