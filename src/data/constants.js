@@ -10,7 +10,7 @@ export const Bio = {
   "Versatile Full Stack (MERN) Developer and Graphic Designer with a passion for creating seamless digital experiences. Proficient in building robust web applications and crafting visually compelling designs that resonate with users. Dedicated to delivering innovative solutions that merge functionality with aesthetics.",
     github: "https://github.com/Nandu-ramineni",
     resume:
-    "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/My_Resume.pdf?alt=media&token=92328654-3c79-4465-badc-e5090884e97a",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/NanduResume.pdf?alt=media&token=9f71ea14-17e7-491a-bcc9-5f50beb8a421",
     linkedin: "https://www.linkedin.com/in/ramineni-nandu-varma-85a226251",
     twitter: "https://twitter.com/Nanduvarma13",
     insta: "https://instagram.com/nanduvarma__?igshid=OGQ5ZDc2ODk2ZA==",
@@ -302,6 +302,27 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 11,
+    title: "Streaming Application",
+    date: "July 2024 ",
+    description: "A feature-rich streaming application built with the MERN stack, utilizing AWS S3 for secure storage and CloudFront for fast content delivery. Includes user authentication via Firebase and JWT, seamless payments with Razorpay, and comprehensive admin settings for managing users, subscriptions, and content. Designed for a smooth and engaging user experience across all devices.",
+    image: 'https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/1.jpg?alt=media&token=d0695331-f48e-4fbc-acf1-ae00eb4f5f79',
+    tags: [
+      "React Js",
+      "MongoDB",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "JWT",
+      "Razorpay",
+      "AWS S3",
+      "CloudFront",
+    ],
+    category: "web app",
+    github: "https://github.com/Nandu-ramineni/Streaming-Application.git",
+    webapp: "https://github.com/Nandu-ramineni/Streaming-Application.git",
+  },
   {
     id: 10,
     title: "Food Delivery Application",
