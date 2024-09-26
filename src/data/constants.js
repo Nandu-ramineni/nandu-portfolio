@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Nandu Ramineni",
   roles: [
-    "Web Developer",
+    "Full Stack Developer",
     "Graphic Designer",
     "UI Designer",
     "Programmer",
