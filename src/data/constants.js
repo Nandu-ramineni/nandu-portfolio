@@ -169,9 +169,33 @@ export const skills = [
 
 export const experiences = [
   {
+    id: 6,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHbPRov2bSb5w/company-logo_200_200/company-logo_200_200/0/1719219564099/redstring_invisible_thread_logo?e=2147483647&v=beta&t=saAOc8wcwHpU6ahtib_pbnC4xIBUQQv1ZR2BtlBJ9UY",
+    role: "Full Stack Developer",
+    company: "Redstring",
+    date: "Sep 2024 - Present",
+    skills:[
+      "React Js",
+      "Redux",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+      "AWS",
+      "EC2",
+      "S3",
+      "Lambda",
+      "API Gateway",
+      "Cognito",
+      "DynamoDB",
+      "JavaScript",
+      "Tailwind CSS",
+    ],
+    
+  },
+  {
     id: 4,
     img: "https://media.licdn.com/dms/image/D4D0BAQGs2qkNI07Hdw/company-logo_200_200/0/1710762761218/health_pulse_connect_logo?e=2147483647&v=beta&t=osDDdWf9xuyytSoBTKKlJ-zknitbaUKR87hnUjwt6VM",
-    role: "Front-end Web Devloper",
+    role: "Front-end Web Developer",
     company: "Health Pulse Connect",
     date: "May 2024 - Present",
     desc: "Working on Health Application which helps to connect the patients with the doctors and book appointments, order medicines, and get the reports online. Developed the Frontend using React Js, Redux, MUI, and integrated with the backend APIs.",
