@@ -189,8 +189,9 @@ export const experiences = [
       "DynamoDB",
       "JavaScript",
       "Tailwind CSS",
+      "shadcn"
     ],
-    
+
   },
   {
     id: 4,
