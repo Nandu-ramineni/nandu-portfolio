@@ -11,7 +11,7 @@ export const Bio = {
     github: "https://github.com/Nandu-ramineni",
     resume:
     "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/NanduResume.pdf?alt=media&token=9f71ea14-17e7-491a-bcc9-5f50beb8a421",
-    linkedin: "https://www.linkedin.com/in/ramineni-nandu-varma-85a226251",
+    linkedin: "https://www.linkedin.com/in/nandu-ramineni-85a226251/",
     twitter: "https://twitter.com/Nanduvarma13",
     insta: "https://instagram.com/nanduvarma__?igshid=OGQ5ZDc2ODk2ZA==",
     youtube: "https://youtube.com/@Nandu_Varma?feature=shared",
