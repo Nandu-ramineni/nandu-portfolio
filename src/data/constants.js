@@ -10,7 +10,7 @@ export const Bio = {
   "Versatile Full Stack (MERN) Developer and Graphic Designer with a passion for creating seamless digital experiences. Proficient in building robust web applications and crafting visually compelling designs that resonate with users. Dedicated to delivering innovative solutions that merge functionality with aesthetics.",
     github: "https://github.com/Nandu-ramineni",
     resume:
-    "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/NanduResume.pdf?alt=media&token=9f71ea14-17e7-491a-bcc9-5f50beb8a421",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-6467b.appspot.com/o/NanduResume.pdf?alt=media&token=7c6d704b-eade-4512-bdc2-0c7ae2ad0f75",
     linkedin: "https://www.linkedin.com/in/nandu-ramineni-85a226251/",
     twitter: "https://twitter.com/Nanduvarma13",
     insta: "https://instagram.com/nanduvarma__?igshid=OGQ5ZDc2ODk2ZA==",
